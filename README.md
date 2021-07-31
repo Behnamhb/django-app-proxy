@@ -2,7 +2,7 @@
 
 NGINX proxy app for django api 
 
-##Usage
+## Usage
 
 
 ### Enviroment Variable
@@ -12,3 +12,6 @@ NGINX proxy app for django api
 * `APP_HOST` - Hostname of the app to forward request (default `app`)
 
 * `APP_PORT` - Port of the app to forward the request to (default `9000`)
+
+
+#### Create and maintenance by Behnam Hasanbeygi 2021
